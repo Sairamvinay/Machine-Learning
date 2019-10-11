@@ -1,0 +1,45 @@
+The thresholds for each quarter are: 
+first quartile:  17.0
+second quartile:  22.5
+third quartile:  29.0
+98
+98
+98
+98
+For regression against all features
+weights are for the degree  0 :  [[23.33972603]]
+The training Mean square error for the 0th order solver is 59.48581910302119
+The testing  Mean square error for the 0th order solver is 64.53554802026645
+
+
+weights are for the degree  1 :  [[-1.60114193e+01]
+ [-3.64070085e-01]
+ [ 1.78766834e-02]
+ [-3.79531819e-02]
+ [-5.85501589e-03]
+ [-8.67498211e-02]
+ [ 7.68926753e-01]
+ [ 1.45923961e+00]]
+The training Mean square error for the 1th order solver is 11.199890587155481
+The testing  Mean square error for the 1th order solver is 10.263709230784107
+
+
+weights are for the degree  2 :  [[ 4.70087914e+02]
+ [ 2.62311092e+00]
+ [-4.00224515e-02]
+ [-1.67325639e-01]
+ [-1.22401294e-02]
+ [-1.80097597e+00]
+ [-1.13584557e+01]
+ [ 1.47184940e+00]
+ [-1.71067002e-01]
+ [ 5.39566457e-05]
+ [ 3.54946095e-04]
+ [ 1.48291860e-06]
+ [ 4.52878290e-02]
+ [ 8.00574946e-02]
+ [-2.23456655e-01]]
+The training Mean square error for the 2th order solver is 7.495914671960289
+The testing  Mean square error for the 2th order solver is 7.197244443775177
+
+

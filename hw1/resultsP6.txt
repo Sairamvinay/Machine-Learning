@@ -1,0 +1,11 @@
+The thresholds for each quarter are: 
+first quartile:  17.0
+second quartile:  22.5
+third quartile:  29.0
+98
+98
+98
+98
+Logistic Regression Algorithm results
+Training Accuracy is 74.657534%
+Testing Accuracy is 83.000000%

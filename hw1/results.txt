@@ -1,0 +1,189 @@
+The thresholds for each quarter are: 
+first quartile:  17.0
+second quartile:  22.5
+third quartile:  29.0
+For regression against each feature independently
+For the cylinders feature
+
+(292, 1) for the degree: 0
+The training Mean square error for the 0th order solver is 59.48581910302119
+The testing  Mean square error for the 0th order solver is 64.53554802026645
+
+
+(292, 2) for the degree: 1
+The training Mean square error for the 1th order solver is 24.451476497376085
+The testing  Mean square error for the 1th order solver is 22.85869953189948
+
+
+(292, 3) for the degree: 2
+The training Mean square error for the 2th order solver is 24.323460057053637
+The testing  Mean square error for the 2th order solver is 22.583307491756468
+
+
+(292, 4) for the degree: 3
+The training Mean square error for the 3th order solver is 22.511843946250337
+The testing  Mean square error for the 3th order solver is 19.8543220440778
+
+
+
+
+For the displacement feature
+
+(292, 1) for the degree: 0
+The training Mean square error for the 0th order solver is 59.48581910302119
+The testing  Mean square error for the 0th order solver is 64.53554802026645
+
+
+(292, 2) for the degree: 1
+The training Mean square error for the 1th order solver is 21.662820868102283
+The testing  Mean square error for the 1th order solver is 20.58072315410922
+
+
+(292, 3) for the degree: 2
+The training Mean square error for the 2th order solver is 19.440143603799203
+The testing  Mean square error for the 2th order solver is 17.40263593794041
+
+
+(292, 4) for the degree: 3
+The training Mean square error for the 3th order solver is 19.423418449094815
+The testing  Mean square error for the 3th order solver is 17.28472652167644
+
+
+
+
+For the horsepower feature
+
+(292, 1) for the degree: 0
+The training Mean square error for the 0th order solver is 59.48581910302119
+The testing  Mean square error for the 0th order solver is 64.53554802026645
+
+
+(292, 2) for the degree: 1
+The training Mean square error for the 1th order solver is 24.640751142237306
+The testing  Mean square error for the 1th order solver is 21.981890488957607
+
+
+(292, 3) for the degree: 2
+The training Mean square error for the 2th order solver is 20.471138611034814
+The testing  Mean square error for the 2th order solver is 14.762714224610585
+
+
+(292, 4) for the degree: 3
+The training Mean square error for the 3th order solver is 20.471021018060934
+The testing  Mean square error for the 3th order solver is 14.745719977817302
+
+
+
+
+For the weight feature
+
+(292, 1) for the degree: 0
+The training Mean square error for the 0th order solver is 59.48581910302119
+The testing  Mean square error for the 0th order solver is 64.53554802026645
+
+
+(292, 2) for the degree: 1
+The training Mean square error for the 1th order solver is 19.87003215547306
+The testing  Mean square error for the 1th order solver is 15.23557094967358
+
+
+(292, 3) for the degree: 2
+The training Mean square error for the 2th order solver is 18.715920961618533
+The testing  Mean square error for the 2th order solver is 13.249529723819727
+
+
+(292, 4) for the degree: 3
+The training Mean square error for the 3th order solver is 18.7021451059892
+The testing  Mean square error for the 3th order solver is 13.344201423438053
+
+
+
+
+For the acceleration feature
+
+(292, 1) for the degree: 0
+The training Mean square error for the 0th order solver is 59.48581910302119
+The testing  Mean square error for the 0th order solver is 64.53554802026645
+
+
+(292, 2) for the degree: 1
+The training Mean square error for the 1th order solver is 50.30389289665868
+The testing  Mean square error for the 1th order solver is 49.06910136524679
+
+
+(292, 3) for the degree: 2
+The training Mean square error for the 2th order solver is 49.38576545575227
+The testing  Mean square error for the 2th order solver is 48.17149999939908
+
+
+(292, 4) for the degree: 3
+The training Mean square error for the 3th order solver is 49.169369038745586
+The testing  Mean square error for the 3th order solver is 48.55602952086114
+
+
+
+
+For the model year feature
+
+(292, 1) for the degree: 0
+The training Mean square error for the 0th order solver is 59.48581910302119
+The testing  Mean square error for the 0th order solver is 64.53554802026645
+
+
+(292, 2) for the degree: 1
+The training Mean square error for the 1th order solver is 39.90508369380596
+The testing  Mean square error for the 1th order solver is 41.43822914897107
+
+
+(292, 3) for the degree: 2
+The training Mean square error for the 2th order solver is 36.85847814251237
+The testing  Mean square error for the 2th order solver is 43.53799465432915
+
+
+(292, 4) for the degree: 3
+The training Mean square error for the 3th order solver is 36.672689817101315
+The testing  Mean square error for the 3th order solver is 43.87281689956256
+
+
+
+
+For the origin feature
+
+(292, 1) for the degree: 0
+The training Mean square error for the 0th order solver is 59.48581910302119
+The testing  Mean square error for the 0th order solver is 64.53554802026645
+
+
+(292, 2) for the degree: 1
+The training Mean square error for the 1th order solver is 41.114905063187244
+The testing  Mean square error for the 1th order solver is 42.076645237015
+
+
+(292, 3) for the degree: 2
+The training Mean square error for the 2th order solver is 40.565102796580845
+The testing  Mean square error for the 2th order solver is 40.802454638704134
+
+
+(292, 4) for the degree: 3
+The training Mean square error for the 3th order solver is 163.53842113032866
+The testing  Mean square error for the 3th order solver is 158.8688145056166
+
+
+
+
+For regression against all features
+(292, 1) for the degree: 0
+The training Mean square error for the 0th order solver is 59.48581910302119
+The testing  Mean square error for the 0th order solver is 64.53554802026645
+
+
+(292, 8) for the degree: 1
+The training Mean square error for the 1th order solver is 11.199890587155481
+The testing  Mean square error for the 1th order solver is 10.263709230784107
+
+
+(292, 15) for the degree: 2
+The training Mean square error for the 2th order solver is 7.495914671960289
+The testing  Mean square error for the 2th order solver is 7.197244443775177
+
+
